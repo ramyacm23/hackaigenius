@@ -1,6 +1,6 @@
 # ⚡ HackGenius AI
 
-<video controls src="ai_agent_working.mp4" title="Title"></video>
+<video controls src="ai_agent_demo.mp4" title="Title"></video>
 
 Turn any hackathon problem statement into a complete, judge-ready solution.
 Enter a problem and instantly get:
